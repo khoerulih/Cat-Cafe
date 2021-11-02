@@ -74,6 +74,7 @@ public class HomeActivity extends AppCompatActivity {
             Toast.makeText(getApplicationContext(), "Logout Berhasil", Toast.LENGTH_SHORT).show();
             Intent loginIntent = new Intent(HomeActivity.this, LoginActivity.class);
             startActivity(loginIntent);
+            finish();
         }
     }
 
