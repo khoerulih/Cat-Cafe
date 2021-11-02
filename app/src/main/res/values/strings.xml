@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cat Cafe</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>\
+    <string name="login_title">Welcome To Cat Cafe</string>
+    <string name="login_subtitle">Please login first</string>
+    <string name="username">Username</string>
+    <string name="sign_in">Sign in</string>
+    <string name="description">Description :</string>
+    <string name="harga">Harga :</string>
+</resources>
