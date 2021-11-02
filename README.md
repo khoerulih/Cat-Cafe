@@ -11,6 +11,8 @@ Ketika pertama kali membuka aplikasi, maka user akan melihat splash screen terle
 ![Splash Screen](https://drive.google.com/uc?export=view&id=1fPDVRAM_fPe0UCL5xYT4wlSVjyl2BRuA)  
 * Login Page  
 Dari Splash Screen, user otomatis akan di redirect ke halaman login page.  
+Username : test  
+Password : 123456  
 ![Login Screen](https://drive.google.com/uc?export=view&id=1CCz0bsPzA4u-o0mO7vMrMcwuqZCf4Mgp)
 * Login Page (Validation: Input Kosong)  
 ![Login Screen](https://drive.google.com/uc?export=view&id=1_0ns_fpDz6MWhJYxwMfg5jN26VUVG50d)
